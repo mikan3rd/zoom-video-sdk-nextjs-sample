@@ -13,7 +13,7 @@
     "create-production-env": "printenv > .env.production.local"
   },
   "dependencies": {
-    "@ant-design/icons": "^4.6.2",
+    "@ant-design/icons": "^5.0.0",
     "@svgr/webpack": "^6.2.1",
     "@types/classnames": "^2.2.11",
     "@types/crypto-js": "^4.0.1",
