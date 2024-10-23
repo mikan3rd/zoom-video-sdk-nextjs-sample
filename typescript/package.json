@@ -2,7 +2,7 @@
   "name": "zoom-video-sdk-sample",
   "version": "0.1.0",
   "engines": {
-    "node": "18.5"
+    "node": "18.20"
   },
   "scripts": {
     "dev": "next dev",
@@ -19,9 +19,9 @@
     "@types/crypto-js": "^4.0.1",
     "@types/jsrsasign": "^8.0.10",
     "@types/lodash": "^4.14.168",
-    "@types/node": "18.0.3",
-    "@types/react": "18.0.15",
-    "@zoom/videosdk": "1.1.6",
+    "@types/node": "18.19.59",
+    "@types/react": "18.3.12",
+    "@zoom/videosdk": "1.12.10",
     "antd": "^4.14.1",
     "classnames": "^2.2.6",
     "crypto-js": "^4.0.0",
@@ -29,14 +29,14 @@
     "js-base64": "^3.6.0",
     "jsrsasign": "^10.3.0",
     "lodash": "^4.17.21",
-    "next": "12.2.2",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "4.7.4"
+    "next": "12.3.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "typescript": "4.9.5"
   },
   "devDependencies": {
-    "@types/react-dom": "18.0.6",
-    "eslint": "8.19.0",
-    "eslint-config-next": "12.2.2"
+    "@types/react-dom": "18.3.1",
+    "eslint": "8.57.1",
+    "eslint-config-next": "12.3.4"
   }
 }
